@@ -26,6 +26,3 @@ I am particularly interested in:
 - Muons with high transverse momentum (p<sub>T</sub>)  
 - Events extending to the detector’s boundaries  
 - Unusual curvature or signatures suggesting new physics
-
-## Event Snapshots
-Here I include images of candidate events and my observations:
