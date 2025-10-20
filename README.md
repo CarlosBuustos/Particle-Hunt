@@ -1,39 +1,28 @@
-# 🔭 Particle Hunting with Hypathia  
+# Particle Hunting with Hypathia  
 *Exploring High-Energy Events in the ATLAS Detector*
 
-![ATLAS Exploration](Resources/atlas_event.png) <!-- Replace with your real image -->
+![Working on Hypathia](Resources/working.jpg) <!-- Main image -->
 
-## 👋 About This Project
-This repository is dedicated to my personal exploration using **Hypathia**, a particle physics visualization software used to analyze real collision events from **CERN’s ATLAS experiment**.
+This repository documents my early exploration in particle physics using **Hypathia**, a visualisation tool for analysing collision events from **CERN’s ATLAS experiment**.  
+This is a complementary task in my internship at the **Institute of Nuclear Physics (IFJ PAN), Poland**, 
 
-My goal is to investigate **high-energy particles** appearing in the *outer regions of the detector* and identify which particle might be responsible — muons, taus, or something more exotic.
-
-## 🎯 Scientific Objective
-> **Mission:** To locate and identify anomalous particle tracks in extreme energy events  
-> **Focus Region:** Outer layers of the ATLAS detector (Muon Spectrometer)
+## Scientific Objective
+**Mission:** To locate and identify anomalous particle tracks in extreme energy events  
+**Focus Region:** Outer layers of the ATLAS detector (Muon Spectrometer)
 
 I am particularly interested in:
 - Highly energetic tracks escaping inner detectors  
-- Long-lived particles crossing multiple subdetectors  
-- Possible signals beyond the Standard Model (BSM)
+- Long-lived particles crossing multiple subdetector layers  
+- Potential hints of particles beyond the Standard Model (BSM)
 
-## 🛠 Tools & Environment
-| Tool / Dataset   | Purpose |
-|------------------|------------------------------|
-| **Hypathia**     | Event visualization & tracking |
-| **ATLAS Data**   | Real proton–proton collisions |
-| **CERN Open Data** | Source of events (Run 1 & Run 2) |
+## Tools & Environment
+| Tool / Dataset     | Purpose                                 |
+|--------------------|------------------------------------------|
+| **Hypathia**       | Event visualization & track analysis     |
+| **ATLAS Data**     | Real proton–proton collisions            |
+| **CERN Open Data** | Source of events (Run 1 & Run 2)         |
 
-## 🔍 Workflow
-1. Load event files (.hyp) in Hypathia  
-2. Analyze track curvature, energy, and detector layer impact  
-3. Trace suspicious particles to identify their type  
-4. Compare with known particle signatures
-
-## 🧪 What I Am Looking For
-- Muons exiting at high momentum  
-- Events with large transverse momentum (p<sub>T</sub>)  
-- Unusual track patterns hinting at new physics
-
-## 📸 Event Snapshots
-Here I include images of candidate events and my observations:
+## What I Am Looking For
+- Muons with high transverse momentum (p<sub>T</sub>)  
+- Events extending to the detector’s boundaries  
+- Unusual curvature or signatures suggesting new physics
