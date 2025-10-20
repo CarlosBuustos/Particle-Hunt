@@ -3,8 +3,8 @@
 
 ![Working on Hypathia](Resources/working.png) <!-- Main image -->
 
-This repository documents my early exploration in particle physics using **Hypathia**, a visualization tool for analyzing collision events from **CERN’s ATLAS experiment**.  
-During my first week at the **Institute of Nuclear Physics (IFJ PAN), Poland**, I began investigating high-energy events with the aim of recognizing particle signatures and understanding their trajectories within the detector.
+This repository documents my early exploration in particle physics using **Hypathia**, a visualisation tool for analysing collision events from **CERN’s ATLAS experiment**.  
+This is a complementary task in my internship at the **Institute of Nuclear Physics (IFJ PAN), Poland**, 
 
 ## Scientific Objective
 **Mission:** To locate and identify anomalous particle tracks in extreme energy events  
