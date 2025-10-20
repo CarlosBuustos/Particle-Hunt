@@ -1,7 +1,7 @@
 # Particle Hunting with Hypathia  
 *Exploring High-Energy Events in the ATLAS Detector*
 
-![Working on Hypathia](Resources/working.png) <!-- Main image -->
+![Working on Hypathia](Resources/working.jpg) <!-- Main image -->
 
 This repository documents my early exploration in particle physics using **Hypathia**, a visualisation tool for analysing collision events from **CERN’s ATLAS experiment**.  
 This is a complementary task in my internship at the **Institute of Nuclear Physics (IFJ PAN), Poland**, 
